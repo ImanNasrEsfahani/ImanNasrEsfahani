@@ -20,14 +20,9 @@
   <a href="https://www.ImanNasr.com">[🌐 Website]</a> | <a href="mailto:Contact@ImanNasr.com">[📧 Email]</a>
 </div>
 
-I'm a passionate Full-stack Web Developer with extensive experience in building scalable web applications. Currently leading development at Landa Trip as Founder & CTO.
+I'm a passionate Full-stack Web Developer with extensive experience in building scalable web applications. Currently leading development at Landa Trip as Founder & CTO. I combine technical excellence with entrepreneurial vision. Let's build something amazing together.
 
 ## 🛠️ Tech Stack
-
-<div align="center">[My Skills]</div>
-
-## 🎯 Core Expertise
-
 **Backend Development**
 - PHP & Laravel Expert
 - Python $ Django Expert
