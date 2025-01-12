@@ -1,10 +1,10 @@
 <div align="center">
-  <h1 style="font-size: 3em">👨‍💻 Iman Nasr</h1>
-  <h2 style="font-size: 2em">Full-stack Web Developer</h2>
+  <h1 style="font-size: 3em"><span>👨‍💻 Iman Nasr</span>span></h1>
+  <h2 style="font-size: 2em"><span>Full-stack Web Developer</span>span></h2>
 </div>
 
 <div align="left">
-  <a href="https://www.ImanNasr.com">[🌐 Website]</a> | [📧 Email](mailto:Contact@ImanNasr.com)
+  <a href="https://www.ImanNasr.com">[🌐 Website]</a> | <a href="mailto:Contact@ImanNasr.com">[📧 Email]</a>
 </div>
 
 I'm a passionate Full-stack Web Developer with extensive experience in building scalable web applications. Currently leading development at Landa Trip as Founder & CTO.
