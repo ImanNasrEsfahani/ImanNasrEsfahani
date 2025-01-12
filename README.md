@@ -1,6 +1,6 @@
 <div align="center">
-  <h1 style="font-size: 3em"><span>👨‍💻 Iman Nasr</span>span></h1>
-  <h2 style="font-size: 2em"><span>Full-stack Web Developer</span>span></h2>
+  <h1 style="font-size: 3em; border-bottom: none"><span>👨‍💻 Iman Nasr</span>span></h1>
+  <h2 style="font-size: 2em; border-bottom: none"><span>Full-stack Web Developer</span>span></h2>
 </div>
 
 <div align="left">
