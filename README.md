@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center">
+# 👨‍💻 Iman Nasr
+### Full-stack Web Developer
 
-<!--
-**ImanNasrEsfahani/ImanNasrEsfahani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Website
+[Email
+</div>
 
-Here are some ideas to get you started:
+I'm a passionate Full-stack Web Developer with extensive experience in building scalable web applications. Currently leading development at Landa Trip as Founder & CTO.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+<div align="center">[My Skills]</div>
+
+## 🎯 Core Expertise
+
+**Backend Development**
+- PHP & Laravel Expert
+- Python $ Django Expert
+- RESTful API Design
+- Database Architecture
+- Server Management
+
+**Frontend Development**
+- Vue.js & React
+- JavaScript / TypeScript
+- NextJS
+- HTML5 CSS3 Bootstrap Tailwind
+
+## 🌟 Notable Projects
+
+**Landa Trip** - Founder & CTO
+- Built an innovative educational platform using Vue.js and Node.js
+- Implemented secure API architecture and optimized platform performance
+- Managed development workflows using GitLab
+
+## 🎓 Certifications
+- Google Cloud Fundamentals
+- FreeCodeCamp Full-Stack Development
+- Essential Google Cloud Infrastructure
+
+## 🗣️ Languages
+- English (C1)
+- French (B1)
+- Persian (Native)
+
+---
+<div align="center">
+📫 Let's connect: [ImanNasr.com](https://imannasr.com)
+</div>
